@@ -27,6 +27,7 @@ int main()
 {
     printf("hello world\n");
     printf("Why Why Why\n"); 
-    printf("%d",add(1,1));
+    printf("%d\n",add(1,1));
+    printf("%d\n",sub(2,1));
     return 0;
 }
