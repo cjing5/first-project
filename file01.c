@@ -3,6 +3,10 @@ int add(int a,int b)
 {
 	return a + b;
 }
+int malt(int a,int b)
+{
+	return a*b;
+ } 
 int main()
 {
     printf("hello world\n");
