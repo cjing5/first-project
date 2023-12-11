@@ -8,6 +8,7 @@ int add(int a,int b)
 {
 	return a + b;
 }
+
 int divi(int a,int b)
 {
 	if(b==0) return 0;
@@ -16,6 +17,12 @@ int divi(int a,int b)
 		return a/b;
 	}
 }
+
+int malt(int a,int b)
+{
+	return a*b;
+} 
+
 int main()
 {
     printf("hello world\n");
