@@ -29,5 +29,7 @@ int main()
     printf("Why Why Why\n"); 
     printf("%d\n",add(1,1));
     printf("%d\n",sub(2,1));
+    printf("%d\n",malt(3,3)); 
+    printf("%d",add(1,1));
     return 0;
 }
